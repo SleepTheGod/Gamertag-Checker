@@ -31,7 +31,7 @@ Usage: 1. Open your terminal and type the following in mingw or linux git clone 
 Usage: 2. Now type cd Gamertag-Checker
 Usage: 3. Now type the following chmod +x windows.py && chmod +x linux.py
 Usage: 4. Now you can type for example python linux.py or if you are using mingw python windows.py enjoy
-
+Note: List.txt will be your usernames list for the checker here is a demo of the checker https://www.youtube.com/watch?v=haCBPQR7_aE
 
 
 
